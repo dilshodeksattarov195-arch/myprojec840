@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingealidate",
+        "uuid": 5150880,
+        "checksum": "ew1ps"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
